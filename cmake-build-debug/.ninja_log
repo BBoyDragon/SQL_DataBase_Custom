@@ -1,0 +1,17 @@
+# ninja log v5
+14	766	7080398906520045	CMakeFiles/labwork_12_BBoyDragon.dir/BDModel.cpp.obj	39a5da5c5589ec2d
+6	1366	7078503589553839	CMakeFiles/labwork_12_BBoyDragon.dir/DataBase/BDModel.cpp.obj	9d97ac8ee0292452
+3	1788	7080399963329514	CMakeFiles/labwork_12_BBoyDragon.dir/BDController.cpp.obj	330d6c5e814a6a6a
+9	11824	7093798191709075	CMakeFiles/labwork_12_BBoyDragon.dir/Main.cpp.obj	29f24b0852f98dd0
+11827	19583	7093798269399306	labwork_12_BBoyDragon.exe	4e858921c0b81e53
+15	2282	7078503598705806	CMakeFiles/labwork_12_BBoyDragon.dir/DataBase/BDController.cpp.obj	8f28de12cbc185a6
+751	825	7080398907130181	CMakeFiles/labwork_12_BBoyDragon.dir/JsonController.cpp.obj	cde05efac8c6c9b7
+18	751	7080398906370011	CMakeFiles/labwork_12_BBoyDragon.dir/DataTable.cpp.obj	70c6501cc52c4bfc
+826	884	7080398907700309	CMakeFiles/labwork_12_BBoyDragon.dir/CreateTableObserver.cpp.obj	c25c6beb0a4e7de3
+766	1754	7080398916402298	CMakeFiles/labwork_12_BBoyDragon.dir/InsertObserver.cpp.obj	75b13085e6ed5362
+20	1066	7119008478957282	CMakeFiles/labwork_12_BBoyDragon.dir/BDModel.cpp.obj	39a5da5c5589ec2d
+31	1073	7119008478957282	CMakeFiles/labwork_12_BBoyDragon.dir/DataTable.cpp.obj	70c6501cc52c4bfc
+1067	2044	7119008488707027	CMakeFiles/labwork_12_BBoyDragon.dir/InsertObserver.cpp.obj	75b13085e6ed5362
+4	2105	7119008489337296	CMakeFiles/labwork_12_BBoyDragon.dir/BDController.cpp.obj	330d6c5e814a6a6a
+14	4787	7119008516057145	CMakeFiles/labwork_12_BBoyDragon.dir/Main.cpp.obj	29f24b0852f98dd0
+4787	7528	7119008543516954	labwork_12_BBoyDragon.exe	4e858921c0b81e53

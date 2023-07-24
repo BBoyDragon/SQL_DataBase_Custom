@@ -1,0 +1,3 @@
+C:/Projects/Labs/labwork-12-BBoyDragon/cmake-build-debug/CMakeFiles/labwork_12_BBoyDragon.dir
+C:/Projects/Labs/labwork-12-BBoyDragon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Projects/Labs/labwork-12-BBoyDragon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
